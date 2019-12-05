@@ -9,7 +9,7 @@
   "author": "Guy Sperry",
   "license": "Apache-2.0",
   "devDependencies": {
-    "eslint": "^3.19.0",
+    "eslint": "^4.18.2",
     "eslint-config-google": "^0.7.1",
     "eslint-plugin-jasmine": "^2.2.0",
     "eslint-plugin-node": "^4.2.2",
